@@ -21,7 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "1745ex2f", "http://localhos
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\..\1745ex2f\"
+		SlnRelativePath = "\"
 		DefaultWebSiteLanguage = "Visual Basic"
 	EndProjectSection
 EndProject
